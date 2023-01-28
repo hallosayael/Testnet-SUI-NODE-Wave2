@@ -101,5 +101,5 @@ docker logs -f <container id>
 ## CTRL+C to exit logs
 
 # Monitor your node health status
-1. Go to https://node.sui.zvalid.com/
+1. Go to https://www.scale3labs.com/check/sui
 2. Insert your node ip
